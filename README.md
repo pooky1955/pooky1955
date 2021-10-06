@@ -1,4 +1,5 @@
 ### Hi there 👋
+FR : Bonjour! Si vous cherchez mon CV, le [voici](https://github.com/pooky1955/pooky1955/blob/main/James%20Liang%20CV%20FR.pdf) en français 
 #### About Me
 I'm an aspriring machine learning research engineer, and I love programming, machine learning, and deep learning.
 #### Experiences
