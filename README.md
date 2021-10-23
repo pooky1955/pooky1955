@@ -5,7 +5,7 @@ I'm an aspriring machine learning research engineer, and I love programming, mac
 #### Experiences
 Previously, I interned at Boehringer Ingelheim as a data scientist for two years, and am currently working on a [project](https://utmist.gitlab.io/projects/audioresolution/) with UTMIST (University of Toronto Machine Intelligence Student Team)
 
-If you're interested in my resume, [here](https://github.com/pooky1955/pooky1955/blob/6a36367a8ee4bc8216ac727570e0c4532d539b9e/James_Liang_CV.pdf) it is!
+If you're interested in my resume, [here](https://github.com/pooky1955/pooky1955/blob/main/James%20Liang%20CV.pdf) it is!
 
 #### Projects
 Some of the projects I'm proud of include
