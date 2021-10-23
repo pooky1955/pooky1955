@@ -25,7 +25,7 @@ Some of the projects I'm proud of include
 - Pandas
 - and more...!
 
-Check my [resume](https://github.com/pooky1955/pooky1955/blob/6a36367a8ee4bc8216ac727570e0c4532d539b9e/James_Liang_CV.pdf) if you're interested!
+Check my [resume](https://github.com/pooky1955/pooky1955/blob/main/James%20Liang%20CV.pdf) if you're interested!
 
 <!--
 **pooky1955/pooky1955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
