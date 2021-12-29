@@ -9,7 +9,7 @@ If you're interested in my resume, [here](https://github.com/pooky1955/pooky1955
 
 #### Projects
 Some of the projects I'm proud of include
-- My [Youtube](https://www.youtube.com/channel/UCYBfGYBuGvgM-gVU5bcfq2A) Channel: Pooky Codes, where I explain topics such as machine learning, the mathematics behind neural networks, and funny skits! (Repository available [here](https://github.com/pooky1955/pooky-coders-yt)
+- My [Youtube](https://www.youtube.com/channel/UCYBfGYBuGvgM-gVU5bcfq2A) Channel: Pooky Codes, where I explain topics such as machine learning, the mathematics behind neural networks, and funny skits! (Repository available [here](https://github.com/pooky1955/pooky-coders-yt))
 - [iNews](https://github.com/pooky1955/iNews): a fake news detector using state of the art stance detection model and scrapes multiple websites to verify the credibility of the source and check for existing fake news article on it.
 - [Summarize and Ask](https://github.com/pooky1955/summarize-and-ask): A simple website made under 24 hours using Streamlit and MobileBERTSUM as well as BERT to both summarize and answer any questions of any text.
 - [Connect 4 AI](https://github.com/pooky1955/connect4AI): This was one of my very first projects and was inspired through Alphago's Monte Carlo Tree Search. Monte Carlo Tree Search was used to implement a superhuman connect4 AI bot.
