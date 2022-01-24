@@ -5,7 +5,7 @@ I'm an aspriring machine learning research engineer, and I love programming, mac
 #### Experiences
 Previously, I interned at Boehringer Ingelheim as a data scientist for two years, and am currently working on a [project](https://utmist.gitlab.io/projects/audioresolution/) with UTMIST (University of Toronto Machine Intelligence Student Team)
 
-Additionally, I also work as software developer at LabTNS/ University of Montreal, developping [OCRx](https://ocrx.ca), a Canadian ontology.
+Additionally, I also work as software developer at LabTNS/University of Montreal, developing [OCRx](https://ocrx.ca), a Canadian ontology.
 
 If you're interested in my resume, [here](https://github.com/pooky1955/pooky1955/blob/main/James%20Liang%20CV.pdf) it is!
 
