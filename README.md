@@ -1,13 +1,13 @@
 ### Hi there 👋
-FR : Bonjour! Si vous cherchez mon CV, le [voici](https://github.com/pooky1955/pooky1955/blob/main/James%20Liang%20CV%20FR.pdf) en français 
+FR : Bonjour! Si vous cherchez mon CV, le [voici](https://github.com/pooky1955/pooky1955/blob/main/James%20Liang%20CV%20FR.pdf) en français.
+EN: If you're interested in my resume, [here](https://github.com/pooky1955/pooky1955/blob/main/James%20Liang%20CV.pdf) it is! 
 #### About Me
 I'm an aspiring machine learning research engineer, and I love programming, machine learning, and deep learning. I'm currently a first-year student at McGill University in Honours Mathematics and Computer Science.
 #### Experiences
-Previously, I interned at Boehringer Ingelheim as a data scientist for two years, and am currently working on a [project](https://utmist.gitlab.io/projects/audioresolution/) with UTMIST (University of Toronto Machine Intelligence Student Team)
-
+Previously, I interned at Boehringer Ingelheim as a data scientist for two years, developing data-driven solutions for clinical trials and email send times.
 Additionally, I also work as a software developer at LabTNS/University of Montreal, developing [OCRx](https://ocrx.ca), a Canadian ontology.
 
-If you're interested in my resume, [here](https://github.com/pooky1955/pooky1955/blob/main/James%20Liang%20CV.pdf) it is!
+
 
 #### Projects
 Some of the projects I'm proud of include
