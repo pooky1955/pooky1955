@@ -1,6 +1,6 @@
 ### Hi there 👋
 FR : Bonjour! Si vous cherchez mon CV, le [voici](https://github.com/pooky1955/pooky1955/blob/main/James%20Liang%20CV%20FR.pdf) en français.
-EN: If you're interested in my resume, [here](https://github.com/pooky1955/pooky1955/blob/main/James%20Liang%20CV.pdf) it is! 
+EN: If you're interested in my resume, [here](https://github.com/pooky1955/pooky1955/blob/main/James_Liang_resume.pdf) it is! 
 #### About Me
 I'm an aspiring machine learning research engineer, and I love programming, machine learning, and deep learning. I'm currently a first-year student at McGill University in Honours Mathematics and Computer Science.
 #### Experiences
@@ -27,7 +27,7 @@ Some of the projects I'm proud of include
 - Pandas
 - and more...!
 
-Check my [resume](https://github.com/pooky1955/pooky1955/blob/main/James%20Liang%20CV.pdf) if you're interested!
+Check my [resume](https://github.com/pooky1955/pooky1955/blob/main/James_Liang_resume.pdf) if you're interested!
 
 <!--
 **pooky1955/pooky1955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
